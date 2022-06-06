@@ -1,4 +1,4 @@
-# ASA_Proj1
+# ASA Algoritmos sobre Sequências 
 
 ## file.cpp.
 - Compilação: g++ -std=c++11 -O3 -Wall file.cpp -lm.

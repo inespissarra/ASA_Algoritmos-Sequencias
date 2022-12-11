@@ -9,3 +9,5 @@ Projeto da cadeira de Análise e Síntese de Algoritmos de LEIC-A. (Ano 2021/202
 ## random_k.cpp.
 - Compilação: g++ -O3 -Wall -o random_k random_k.cpp -lm.
 - Execução: ./random_k 2 10 0.999 200 300 > testfile (podem variar os parâmetros e gerar vários ficheiros de teste).
+
+Nota: 20

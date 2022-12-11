@@ -1,6 +1,6 @@
 # ASA Algoritmos sobre Sequências 
 
-Projeto da cadeira de Análise e Síntese de Algoritmos de LEIC-A. (Ano 2021/2022)
+Primeiro projeto da cadeira de Análise e Síntese de Algoritmos de LEIC-A. (Ano 2021/2022)
 
 ## file.cpp.
 - Compilação: g++ -std=c++11 -O3 -Wall file.cpp -lm.
